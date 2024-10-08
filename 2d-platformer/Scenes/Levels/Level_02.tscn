@@ -8,7 +8,7 @@
 [ext_resource type="Texture2D" uid="uid://clreg520jah1j" path="res://Assets/platformPack_item008.png" id="7_ns8o6"]
 [ext_resource type="FontFile" uid="uid://qgc4vi5osk7v" path="res://Assets/Fonts/Star Choco.ttf" id="8_doswy"]
 
-[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_gs0qk"]
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_yqrel"]
 texture = ExtResource("5_8107p")
 texture_region_size = Vector2i(64, 64)
 0:0/0 = 0
@@ -28,7 +28,7 @@ texture_region_size = Vector2i(64, 64)
 [sub_resource type="TileSet" id="TileSet_ywwrl"]
 tile_size = Vector2i(64, 64)
 physics_layer_0/collision_layer = 1
-sources/0 = SubResource("TileSetAtlasSource_gs0qk")
+sources/0 = SubResource("TileSetAtlasSource_yqrel")
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_rndpx"]
 texture = ExtResource("5_8107p")
